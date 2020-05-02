@@ -1,0 +1,185 @@
+.q1{
+    width: 20px;
+    height: 20px;
+  
+}
+.first{
+    background-color: blue;
+    padding-top: 20px;
+}
+#q2{
+    color: white;
+    text-align: center;
+}
+#y
+{
+    width: 150px;
+    height: 70px;
+}
+
+.second{
+    background-color: whitesmoke;
+}
+.third{
+ background-color: whitesmoke;
+}
+.fourth{
+    background-color: blue;
+}
+#q3{
+    text-align: center;
+    color: white;
+}
+#oi
+{
+    border: black;
+    background-color:white;
+    color: black;
+}
+#a{
+
+    background-color: slategrey;
+
+    font-size: 15px;
+    padding: 25px 50px 75px 200px;
+    color: ivory;
+
+}
+
+#aa{
+    background-color: royalblue;
+    font-size: 15px;
+    color:ivory;
+    padding: 25px 50px 15px 200px;
+
+}
+.navbar-left,img
+{
+  width: 36px;
+
+  
+}
+
+
+
+.material-icons
+{
+
+    color: rgb(36, 109, 36);
+}
+.new1
+{
+
+    border: 2px solid green;
+ 
+}
+#pp1
+{
+    border: 2px lavender;
+    height:200px;
+    width: 400px;
+    padding: 30px;
+    box-shadow: 5px 10px 18px #888888;
+    text-align: center;
+    cursor: pointer;
+    
+
+}
+
+#ww1
+{
+    text-align: center;
+    line-height: 3em;
+    font-size: x-large
+    color: green;
+   
+ 
+   
+   
+}
+
+#pr
+{
+
+    border: 1px lavender;
+    height:100px;
+    width: 400px;
+
+    box-shadow: 3px 10px 18px #888888;
+    text-align: left;
+    cursor: pointer;
+}
+#news
+{
+
+    background-color:royalblue;
+    color: cornsilk;
+    text-align: center;
+
+    border: 3px center solid blue;
+    padding: 2px,4px,2px,4px;
+ 
+
+}
+#ww
+{
+   
+    background-color:white;
+ 
+}
+#po
+{
+    height: 1000px;
+}
+#intro
+{
+
+text-align: center;
+
+background-color: whitesmoke;
+height:  600px;
+
+}
+#r
+{
+    color: green;
+    line-height: 2em;
+    font-size: x-large;
+}
+#ss
+{
+    line-height: 2em;
+    text-align: center;
+}
+#poi
+{
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+#ff{
+
+
+
+    background-color: royalblue;
+    color:white;
+    text-align: center;
+  
+    display: flex;
+}
+#ee
+{
+    padding: 20px;
+}
+#pp
+{
+    border: 2px wheat;
+    height:200px;
+    width: 400px;
+    padding: 30px;
+    box-shadow: 5px 10px 18px #888888;
+    text-align: center;
+}
